@@ -5,12 +5,12 @@
  
  The internship is divided into three tasks such as
  
- - Data Quality Assessment
+ - Data Quality Assessment:-
             The importance of optimising the quality of customer datasets cannot be underestimated and we have analyse to help optimise the customer's marketing strategy. The better the quality of the dataset, the better chance will be able to use it drive company growth. The task is to review the data quality issues lying in the three customer datasets.
           
-- Data Insights
+- Data Insights:-
             Targeting high value customers based on customer demographics and attributes. A powerpoint presentation is to be made which highlights Data Exploration, Model Development and Interpretation. A detailed approach for completing the analysis includes activities such as understanding the data distributions, feature engineering, data transformations, modelling, results interpretation and reporting.
             
-- Data Insights and Presentation
+- Data Insights and Presentation:-
              After building the model it is essential to showcase the findings to our clients. Visualisations such as interactive dashboards often help highlight key findings and convey ideas in a more succinct manner. Deliverables include developing a Tableau dashboard that displays the summary and results of the analysis.
             
