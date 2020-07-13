@@ -3,6 +3,7 @@
  
  The VI program is designed by the Data Analytics and Consultancy domain of one of the biggest accountancy firm in the entire world.The Analytics, Information & Modelling group helps organisations take the mystery out of big data and show them how to leverage their data resources to produce better business outcomes. I have uploaded the dataset provided by KPMG for the analysis.
  
+ # Work Presented
  The internship is divided into three tasks such as
  
  - Data Quality Assessment:-
@@ -14,4 +15,4 @@
 - Data Insights and Presentation:-
              After building the model it is essential to showcase the findings to our clients. Visualisations such as interactive dashboards often help highlight key findings and convey ideas in a more succinct manner. Deliverables include developing a Tableau dashboard that displays the summary and results of the analysis.
             
-The final dashboard is made available at https://public.tableau.com/profile/vidhi.rajesh.chitalia#!/vizhome/KPMG-Virtual-Internship-Dashboard/Dashboard1?publish=yes
+# The final dashboard is made available at https://public.tableau.com/profile/vidhi.rajesh.chitalia#!/vizhome/KPMG-Virtual-Internship-Dashboard/Dashboard1?publish=yes. 
